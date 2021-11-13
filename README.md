@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Rocket.Q" src="./Rocket_Q.png" width="100%">
+  <img alt="Rocket.Q" src="./rocketq.png" width="100%">
 </p>
 
 ## 🚀 Technologies
